@@ -1,1 +1,0 @@
-<tu wklej cały kod aplikacji ze canvas>
